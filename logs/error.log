@@ -1,0 +1,2 @@
+2023-05-22 23:55:10:5510 - [31merror[39m: [31mSem conexão com o banco[39m
+2023-05-22 23:55:10:5510 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m

@@ -1,14 +1,17 @@
+require("dotenv").config()
 import express from "express";
 import config from "config";
-
+import router from "./router";//routes
+import db from "../config/db";
+import Looger from "../config/logger";
 const app = express()
+const port = config.get<number>('port');//app port
 
-//json middleware
-app.use(express.json());
+app.use(express.json());//json middleware
 
-//app port
-const port = config.get<number>('port');
+app.use("/api/", router)
 
 app.listen(port, async () => {
-    console.log(`Server is running on port ${port}`);
+    await db();
+    Looger.info(`Server is running on port ${port}`)
 })
