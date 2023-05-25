@@ -14,3 +14,80 @@
 2023-05-23 00:08:23:823 - [32minfo[39m: [32mServer is running on port 3000[39m
 2023-05-23 00:08:33:833 - [32minfo[39m: [32mBanco de dados Conectado[39m
 2023-05-23 00:08:33:833 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 14:35:15:3515 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 14:35:15:3515 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 14:35:24:3524 - [35mhttp[39m: [35mGET /api/test 200 6 - 2.701 ms[39m
+[35m[39m
+2023-05-24 20:57:08:578 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 20:57:08:578 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 20:58:08:588 - [35mhttp[39m: [35mPOST /api//movie 200 5 - 2.300 ms[39m
+[35m[39m
+2023-05-24 20:58:30:5830 - [35mhttp[39m: [35mPOST /api/movie 200 5 - 0.488 ms[39m
+[35m[39m
+2023-05-24 20:58:34:5834 - [35mhttp[39m: [35mPOST /api/movie 200 5 - 0.503 ms[39m
+[35m[39m
+2023-05-24 21:00:38:038 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:00:38:038 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:27:22:2722 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:27:22:2722 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:27:28:2728 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:27:28:2728 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:27:34:2734 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:27:34:2734 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:27:55:2755 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:27:55:2755 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:53:29:5329 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-05-24 21:53:50:5350 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:53:50:5350 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:53:53:5353 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-05-24 21:58:50:5850 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 21:58:50:5850 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 21:58:53:5853 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-05-24 21:59:04:594 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-05-24 22:11:27:1127 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 311.536 ms[39m
+[35m[39m
+2023-05-24 22:33:38:3338 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:33:38:3338 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:34:21:3421 - [35mhttp[39m: [35mPOST /api/movie 201 148 - 166.222 ms[39m
+[35m[39m
+2023-05-24 22:40:00:400 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:40:00:400 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:40:19:4019 - [35mhttp[39m: [35mPOST /api/movie 422 49 - 22.452 ms[39m
+[35m[39m
+2023-05-24 22:45:01:451 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:45:01:451 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:45:09:459 - [35mhttp[39m: [35mPOST /api/movie 422 45 - 10.807 ms[39m
+[35m[39m
+2023-05-24 22:45:18:4518 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:45:18:4518 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:45:34:4534 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:45:34:4534 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:48:44:4844 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:48:44:4844 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:49:01:491 - [35mhttp[39m: [35mPOST /api/movie 422 146 - 13.590 ms[39m
+[35m[39m
+2023-05-24 22:49:10:4910 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 2.888 ms[39m
+[35m[39m
+2023-05-24 22:49:57:4957 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 2.088 ms[39m
+[35m[39m
+2023-05-24 22:50:00:500 - [35mhttp[39m: [35mPOST /api/movie 201 163 - 166.918 ms[39m
+[35m[39m
+2023-05-24 22:52:39:5239 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:52:39:5239 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:53:19:5319 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:53:19:5319 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:54:02:542 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:54:02:542 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:54:43:5443 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:54:43:5443 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:55:22:5522 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:55:22:5522 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:57:14:5714 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:57:14:5714 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-24 22:58:40:5840 - [35mhttp[39m: [35mPOST /api/movie 422 57 - 16.413 ms[39m
+[35m[39m
+2023-05-24 22:58:46:5846 - [35mhttp[39m: [35mPOST /api/movie 201 288 - 169.624 ms[39m
+[35m[39m
+2023-05-24 22:59:22:5922 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-24 22:59:22:5922 - [32minfo[39m: [32mServer is running on port 3000[39m
