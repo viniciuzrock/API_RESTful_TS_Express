@@ -211,3 +211,108 @@
 [35m[39m
 2023-05-25 16:46:58:4658 - [32minfo[39m: [32mBanco de dados Conectado[39m
 2023-05-25 16:46:58:4658 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:48:07:487 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:48:07:487 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:49:41:4941 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:49:41:4941 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:49:52:4952 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:49:52:4952 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:50:41:5041 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:50:41:5041 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:53:38:5338 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:53:38:5338 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:53:43:5343 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:53:43:5343 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:53:52:5352 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:53:52:5352 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:54:55:5455 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:54:55:5455 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:55:42:5542 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:55:42:5542 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:55:48:5548 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:55:48:5548 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:56:41:5641 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:56:41:5641 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:56:59:5659 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "delete" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:56:59:5659 - [35mhttp[39m: [35mGET /api/movie/delete 500 40 - 8.392 ms[39m
+[35m[39m
+2023-05-25 16:57:12:5712 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:57:12:5712 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:57:19:5719 - [35mhttp[39m: [35mGET /api/movie/delete/646eb5bfaec9e45ca2838eba 200 29 - 170.177 ms[39m
+[35m[39m
+2023-05-25 16:57:37:5737 - [35mhttp[39m: [35mGET /api/movie/delete/646ebb1db2520f2f60409ec4 200 29 - 155.092 ms[39m
+[35m[39m
+2023-05-25 16:58:06:586 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:58:06:586 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:58:26:5826 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:58:26:5826 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:58:36:5836 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:58:36:5836 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:58:52:5852 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:58:52:5852 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:59:10:5910 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:59:10:5910 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:00:01:01 - [35mhttp[39m: [35mDELETE /api/movie/646ebec887a5bb41d61af99c - - - - ms[39m
+[35m[39m
+2023-05-25 17:01:20:120 - [35mhttp[39m: [35mDELETE /api/movie/646ebec887a5bb41d61af99d 404 35 - 149.634 ms[39m
+[35m[39m
+2023-05-25 17:01:36:136 - [35mhttp[39m: [35mDELETE /api/movie/646ebec887a5bb41d61af99c - - - - ms[39m
+[35m[39m
+2023-05-25 17:02:17:217 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:02:17:217 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:02:24:224 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:02:24:224 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:02:25:225 - [35mhttp[39m: [35mDELETE /api/movie/646ebec887a5bb41d61af99c 200 41 - 301.275 ms[39m
+[35m[39m
+2023-05-25 17:02:37:237 - [35mhttp[39m: [35mGET /api/movie 200 579 - 149.581 ms[39m
+[35m[39m
+2023-05-25 17:03:45:345 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:03:45:345 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:03:53:353 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:03:53:353 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:04:14:414 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:04:14:414 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:04:33:433 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:04:33:433 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:05:36:536 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 175 - 2.667 ms[39m
+[35m[39m
+2023-05-25 17:06:15:615 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:06:15:615 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:06:17:617 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 175 - 3.390 ms[39m
+[35m[39m
+2023-05-25 17:06:46:646 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:06:46:646 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:07:15:715 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:07:15:715 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:09:01:91 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:09:01:91 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:09:17:917 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:09:17:917 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:09:21:921 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 175 - 2.411 ms[39m
+[35m[39m
+2023-05-25 17:09:22:922 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 175 - 1.153 ms[39m
+[35m[39m
+2023-05-25 17:09:23:923 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 175 - 0.545 ms[39m
+[35m[39m
+2023-05-25 17:09:23:923 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 175 - 0.410 ms[39m
+[35m[39m
+2023-05-25 17:09:51:951 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:09:51:951 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:09:54:954 - [35mhttp[39m: [35mPATCH /api/movie/646ebec887a5bb41d61af99c 404 35 - 149.137 ms[39m
+[35m[39m
+2023-05-25 17:10:16:1016 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:10:16:1016 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:11:02:112 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:11:02:112 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:11:07:117 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:11:07:117 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:11:15:1115 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:11:15:1115 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:11:36:1136 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:11:36:1136 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:11:53:1153 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:11:53:1153 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 17:13:07:137 - [35mhttp[39m: [35mPATCH /api/movie/646fb1731bfe7c27e5fb4026 200 192 - 314.889 ms[39m
+[35m[39m
+2023-05-25 17:14:06:146 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 17:14:06:146 - [32minfo[39m: [32mServer is running on port 3000[39m
