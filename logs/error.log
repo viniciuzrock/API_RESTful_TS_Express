@@ -3,3 +3,9 @@
 2023-05-24 21:53:29:5329 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
 2023-05-24 21:53:53:5353 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
 2023-05-24 21:58:53:5853 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-05-25 16:32:47:3247 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "646eb5bfaec9e45ca2838ebaa" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:33:03:333 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "646eb5bfaec9e45ca2838ebX" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:33:22:3322 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "646eb5bfaec9e45ca2838ebz" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:38:28:3828 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:42:16:4216 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:42:59:4259 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m

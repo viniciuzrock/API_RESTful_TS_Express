@@ -91,3 +91,123 @@
 [35m[39m
 2023-05-24 22:59:22:5922 - [32minfo[39m: [32mBanco de dados Conectado[39m
 2023-05-24 22:59:22:5922 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:04:57:457 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:04:57:457 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:05:17:517 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 12.507 ms[39m
+[35m[39m
+2023-05-25 16:05:23:523 - [35mhttp[39m: [35mPOST /api/movie 201 288 - 169.612 ms[39m
+[35m[39m
+2023-05-25 16:05:34:534 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:05:34:534 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:08:21:821 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:08:21:821 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:26:45:2645 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:26:45:2645 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:27:17:2717 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:27:17:2717 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:28:28:2828 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:28:28:2828 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:29:06:296 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:29:06:296 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:30:57:3057 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:30:57:3057 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:31:10:3110 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:31:10:3110 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:32:31:3231 - [35mhttp[39m: [35mGET /api/movie/646eb5bfaec9e45ca2838eba 200 149 - 159.309 ms[39m
+[35m[39m
+2023-05-25 16:32:47:3247 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "646eb5bfaec9e45ca2838ebaa" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:32:56:3256 - [35mhttp[39m: [35mGET /api/movie/646eb5bfaec9e45ca2838ebaa - - - - ms[39m
+[35m[39m
+2023-05-25 16:33:03:333 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "646eb5bfaec9e45ca2838ebX" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:33:08:338 - [35mhttp[39m: [35mGET /api/movie/646eb5bfaec9e45ca2838ebX - - - - ms[39m
+[35m[39m
+2023-05-25 16:33:22:3322 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "646eb5bfaec9e45ca2838ebz" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:33:29:3329 - [35mhttp[39m: [35mGET /api/movie/646eb5bfaec9e45ca2838ebz - - - - ms[39m
+[35m[39m
+2023-05-25 16:33:55:3355 - [35mhttp[39m: [35mGET /api/movie/646eb5bfaec9e45ca2839eba 404 35 - 141.550 ms[39m
+[35m[39m
+2023-05-25 16:35:04:354 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:35:04:354 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:36:56:3656 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:36:56:3656 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:37:07:377 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:37:07:377 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:37:12:3712 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:37:12:3712 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:37:27:3727 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:37:27:3727 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:37:32:3732 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:37:32:3732 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:38:12:3812 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:38:12:3812 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:38:28:3828 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:38:42:3842 - [35mhttp[39m: [35mGET /api/movie/all - - - - ms[39m
+[35m[39m
+2023-05-25 16:40:25:4025 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:40:25:4025 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:42:13:4213 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:42:13:4213 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:42:16:4216 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:42:55:4255 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:42:55:4255 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:42:59:4259 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "all" (type string) at path "_id" for model "Movie"[39m
+2023-05-25 16:43:29:4329 - [35mhttp[39m: [35mGET /api/movie/all - - - - ms[39m
+[35m[39m
+2023-05-25 16:44:56:4456 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:44:56:4456 - [32minfo[39m: [32mServer is running on port 3000[39m
+2023-05-25 16:45:01:451 - [33mwarn[39m: [33mmovies[39m
+2023-05-25 16:45:01:451 - [33mwarn[39m: [33m[[39m
+[33m  {[39m
+[33m    _id: new ObjectId("646eb5bfaec9e45ca2838eba"),[39m
+[33m    title: 'Nocaute',[39m
+[33m    stars: [],[39m
+[33m    createdAt: 2023-05-25T01:11:27.517Z,[39m
+[33m    updatedAt: 2023-05-25T01:11:27.517Z,[39m
+[33m    __v: 0[39m
+[33m  },[39m
+[33m  {[39m
+[33m    _id: new ObjectId("646ebb1db2520f2f60409ec4"),[39m
+[33m    title: 'Teste2',[39m
+[33m    stars: [],[39m
+[33m    createdAt: 2023-05-25T01:34:21.403Z,[39m
+[33m    updatedAt: 2023-05-25T01:34:21.403Z,[39m
+[33m    __v: 0[39m
+[33m  },[39m
+[33m  {[39m
+[33m    _id: new ObjectId("646ebec887a5bb41d61af99c"),[39m
+[33m    title: 'novoteste',[39m
+[33m    rating: 12,[39m
+[33m    stars: [],[39m
+[33m    createdAt: 2023-05-25T01:50:00.206Z,[39m
+[33m    updatedAt: 2023-05-25T01:50:00.206Z,[39m
+[33m    __v: 0[39m
+[33m  },[39m
+[33m  {[39m
+[33m    _id: new ObjectId("646ec0d6d5087ce36a23f018"),[39m
+[33m    title: 'novoteste',[39m
+[33m    rating: 10,[39m
+[33m    description: 'Filme sobre lutas',[39m
+[33m    director: 'D-teste',[39m
+[33m    stars: [],[39m
+[33m    poster: 'https://dev.to/felipperegazio/entao-voce-quer-ser-dev-4k74',[39m
+[33m    createdAt: 2023-05-25T01:58:46.652Z,[39m
+[33m    updatedAt: 2023-05-25T01:58:46.652Z,[39m
+[33m    __v: 0[39m
+[33m  },[39m
+[33m  {[39m
+[33m    _id: new ObjectId("646fb1731bfe7c27e5fb4026"),[39m
+[33m    title: 'novoteste',[39m
+[33m    rating: 10,[39m
+[33m    description: 'Filme sobre lutas',[39m
+[33m    director: 'D-teste',[39m
+[33m    stars: [],[39m
+[33m    poster: 'https://dev.to/felipperegazio/entao-voce-quer-ser-dev-4k74',[39m
+[33m    createdAt: 2023-05-25T19:05:23.102Z,[39m
+[33m    updatedAt: 2023-05-25T19:05:23.102Z,[39m
+[33m    __v: 0[39m
+[33m  }[39m
+[33m][39m
+2023-05-25 16:45:01:451 - [35mhttp[39m: [35mGET /api/movie 200 1042 - 169.742 ms[39m
+[35m[39m
+2023-05-25 16:46:58:4658 - [32minfo[39m: [32mBanco de dados Conectado[39m
+2023-05-25 16:46:58:4658 - [32minfo[39m: [32mServer is running on port 3000[39m
